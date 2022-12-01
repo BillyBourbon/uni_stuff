@@ -1,3 +1,4 @@
+//Exercise 3. Create a programme to let a user enter his name and greet them by it. then ask their birth year and tell them their age 
 #include <stdio.h>
 #include <time.h>
 int main(void){  
