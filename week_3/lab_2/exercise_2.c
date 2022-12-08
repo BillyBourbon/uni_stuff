@@ -2,7 +2,6 @@
 // corresponding temperature to the other scale by using switch...case statements.
 
 #include <stdio.h>
-#include <string.h>
 
 int main(){
   float temperature, conversion;
