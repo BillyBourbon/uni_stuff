@@ -1,3 +1,5 @@
+// Exercise 2: Write a program that requires the user to enter two oat numbers and
+// calculates their average.
 #include <stdio.h>
 
 int main(){
