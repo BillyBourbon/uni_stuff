@@ -14,6 +14,6 @@ int main(){
 
   if( x == y == z) printf("Your Triangle Is Equalateral With Lengths Size %i",x);
   if( x == y || y == z || x == z) printf("Your Triangle Is Isocele With Sides Length %i, %i, %i",x,y,z);
-  if( x != y != z) printf("Your Triangle Is Scalene With Side Lengths %i, %i, ");
+  if( x != y != z) printf("Your Triangle Is Scalene With Side Lengths %i, %i, %i ", x, y, z);
   return 0;
 }
